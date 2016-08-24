@@ -45,6 +45,16 @@ body {
   background: #ff5e99;
   text-shadow: none; }
 
+.reveal .slides {
+ /* width: 1200px ! important*/
+ top: 40%
+}
+
+.reveal ul,
+.reveal p {
+  width: 100%
+}
+
 /*********************************************
  * HEADERS
  *********************************************/
